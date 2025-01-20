@@ -49,7 +49,7 @@ This app ensures efficient and user-friendly operations for students and adminis
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/student-app.git
+   git clone https://github.com/naresh6184/Student_GatePass.git
    ```
 2. Navigate to the project directory:
    ```bash
