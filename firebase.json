@@ -1,0 +1,41 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "gate-pass-automation",
+          "appId": "1:169004896744:android:cced7dea9523fa6e91945d",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "gate-pass-automation",
+          "configurations": {
+            "android": "1:169004896744:android:cced7dea9523fa6e91945d",
+            "ios": "1:169004896744:ios:dace2530aa30e0ce91945d",
+            "macos": "1:169004896744:ios:dace2530aa30e0ce91945d",
+            "web": "1:169004896744:web:e5d517a3fe5d61a891945d",
+            "windows": "1:169004896744:web:26927c7e3ce9d89c91945d"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "venv",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": [
+        "npm run lint"
+      ]
+    }
+  ]
+}

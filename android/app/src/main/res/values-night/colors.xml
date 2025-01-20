@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_background_light">#FFFFFF</color> <!-- White background for light theme -->
+     <!-- Slightly darker white for dark theme -->
+</resources>
