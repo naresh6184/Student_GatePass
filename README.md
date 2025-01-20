@@ -149,6 +149,7 @@ Contributions are welcome! Follow these steps to contribute:
 
 ## Author
 Naresh Jangir
+
 Contact: nareshjangir6184@gmail.com
 
 ---
