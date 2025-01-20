@@ -53,7 +53,7 @@ This app ensures efficient and user-friendly operations for students and adminis
    ```
 2. Navigate to the project directory:
    ```bash
-   cd student-app
+   cd Student_GatePass
    ```
 3. Install dependencies:
    ```bash
