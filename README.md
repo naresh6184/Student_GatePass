@@ -14,7 +14,6 @@ Welcome to the **Student App** ! This  project is the part of **Gate Pass Automa
 6. [Flowcharts](#flowcharts)
 7. [Technologies Used](#technologies-used)
 8. [Contributing](#contributing)
-9. [License](#license)
 
 ---
 
